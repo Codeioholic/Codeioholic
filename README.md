@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codeioholic
-- 👀 I’m interested in ...in basically learning any and every new things.
+- 👀 I’m interested in ...in basically learning any and every new thing.
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...Open-source software.
 - 📫 How to reach me ...kumarujjwal7264@gmail.com
